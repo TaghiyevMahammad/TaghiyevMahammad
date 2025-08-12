@@ -33,7 +33,7 @@ Currently based in Azerbaijan.
 
 ---
 
-### Connect with me  
+### <p align="center">Connect with me</p>
 <p align="center">
 <a href="https://www.instagram.com/taghiyevmahammad" target="_blank" style="margin-right:20px;"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/mahammadtaghiyev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
