@@ -28,8 +28,9 @@ Currently based in Azerbaijan.
   <img src="https://github-readme-stats.vercel.app/api?username=TaghiyevMahammad&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bbbbbb&text_color=888888&icon_color=555555" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaghiyevMahammad&theme=dark&hide_border=true&background=000000&stroke=444444&ring=666666&fire=888888&currStreakNum=aaaaaa&sideNums=888888&currStreakLabel=aaaaaa&sideLabels=666666" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaghiyevMahammad&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 ---
