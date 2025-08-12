@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maga</h1>
-<h3 align="center">Full-Stack Developer 🚀</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 ---
 
-### 🌟 About Me  
-💻 Passionate about building **interactive websites**  
-🎯 Always learning & exploring new technologies  
-⚡ Love turning ideas into real-world projects  
-📍 Based in Azerbaijan  
+###  About Me  
+ Passionate about building **interactive websites**  
+ Always learning & exploring new technologies  
+ Love turning ideas into real-world projects  
+ Based in Azerbaijan  
 
 ---
 
