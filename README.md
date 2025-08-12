@@ -19,9 +19,7 @@
 ---
 
 ### 📌 Current Focus  
-- 🌐 Creating modern, responsive portfolio websites  
-- 📈 Growing my online presence on Instagram & YouTube  
-
+- 🌐 Creating modern, responsive portfolio websites   
 ---
 
 ### 📊 GitHub Stats  
@@ -36,9 +34,8 @@
 
 ### 🌐 Connect with me  
 <p align="left">
-<a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/YOUR_YOUTUBE" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/taghiyevmahammad" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahammadtaghiyev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
