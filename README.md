@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#eee;">Hi, I'm Maga</h1>
+<h1 align="center" style="color:#eee;">Hi, I'm Mahammad</h1>
 <h3 align="center" style="color:#bbb;">Full-Stack Developer</h3>
 
 ---
