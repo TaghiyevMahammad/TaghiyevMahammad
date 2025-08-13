@@ -19,7 +19,7 @@ Currently based in Azerbaijan.
 ---
 
 ### Current Focus  
-- Building responsive portfolio websites
+- Building responsive  websites
 
 ---
 
