@@ -2,6 +2,9 @@
 <h3 align="center">💻 Full-Stack Developer | 🚀 Lifelong Learner</h3>
 
 ---
+<p align="center">
+  <img src="https://github.com/TaghiyevMahammad/TaghiyevMahammad/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 🧑‍💻 About Me  
 🌍 Based in **Azerbaijan**  
